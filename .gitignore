@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+go_build_tfidf
+corpus_jsons/
+testdata2/
