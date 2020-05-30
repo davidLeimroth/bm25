@@ -7,3 +7,4 @@ data/test
 !data/test/testdata/
 **/*.bin
 **/go_build*
+.config
