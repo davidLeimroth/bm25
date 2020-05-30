@@ -1,4 +1,4 @@
-.config
+.config/**/*
 !.config/example_search_config.json
 .idea/
 .DS_Store
