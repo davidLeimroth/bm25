@@ -1,8 +1,0 @@
-{
-  "modelDir": "./.data",
-  "modelName": "searchMat.bin",
-  "dataDir": "./data/test/testdata",
-  "stateDir": "./.state",
-  "debug": false,
-  "rebuildOnChange": true
-}

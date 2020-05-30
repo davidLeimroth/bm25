@@ -1,3 +1,5 @@
+.config
+!.config/example_search_config.json
 .idea/
 .DS_Store
 go_build_tfidf
@@ -7,4 +9,3 @@ data/test
 !data/test/testdata/
 **/*.bin
 **/go_build*
-.config
