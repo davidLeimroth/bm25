@@ -3,6 +3,7 @@
 ## Build and run
 
 ```bash
+$ cp .config/example_search_config.json .config/search_config.json
 $ go run cmd/app/main.go
 ```
 
